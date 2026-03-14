@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python data/generate_data.py:*)",
+      "Bash(python scripts/train_autoencoder.py:*)",
+      "Bash(python scripts/train_forecaster.py:*)",
+      "Bash(python scripts/evaluate.py:*)",
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
