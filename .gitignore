@@ -10,7 +10,6 @@ __pycache__/
 venv/
 ENV/
 env/
-figures/*.png
 .vscode/
 .idea/
 *.swp
