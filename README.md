@@ -229,10 +229,3 @@ See `requirements.txt` for full list. Core dependencies:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-For questions or collaboration opportunities, please reach out!
-
----
-
